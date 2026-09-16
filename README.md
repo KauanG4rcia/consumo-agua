@@ -1,6 +1,6 @@
 ## Tipo de Imóvel e Consumo de Água
 Esse Projeto utiliza a linguagem Python🐍; </br>
-<img align="center" alt="CSS" height="40" width="40"
+<img align="center" alt="github" height="40" width="40"
 src = " https://img.shields.io/badge/github-repo-blue?logo=github"> </br>
 Seu objetivo e identficar o **consumo de água** 🌊 a depender do **imóvel**🏠 que foi escolhido, verficando se está ou não nos conformes estabelecidos.</br>
 Ele funciona de maneira simples, bastando escolher uma das três opções possíveis *("Comercial", "Casa", "Apartamento")* e digitando seu consumo em *metros cúbicos (m3)*. O Programa responderá se o seu gasto está Excelente, na média ou preocupante. ⚡</br>
